@@ -11,7 +11,8 @@ instrucciones
 
 ### Requisitos previos
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
+Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse"
+Link paguina eplipse:
 
 ```
 https://eclipseide.org/
@@ -19,8 +20,7 @@ https://eclipseide.org/
 
 ### Instalación
 
-Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse"
-Link paguina eplipse:
+
 
 ```
 https://eclipseide.org/
