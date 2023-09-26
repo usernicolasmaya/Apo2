@@ -11,8 +11,8 @@ instrucciones
 
 ### Requisitos previos
 
-Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse"
-Link paguina eplipse:
+Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse", 
+Link paguina eclipse:
 
 ```
 https://eclipseide.org/
