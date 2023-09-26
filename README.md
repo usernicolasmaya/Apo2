@@ -19,9 +19,8 @@ https://eclipseide.org/
 
 ### Instalación
 
-Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
-
-Di cuál será el paso.
+Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse"
+Link paguina eplipse:
 
 ```
 https://eclipseide.org/
