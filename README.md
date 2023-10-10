@@ -1,5 +1,5 @@
 # Apo2
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
+![Logo Java](https://cdn.neowin.com/news/images/uploaded/2016/04/eclipse-logo-new_story.jpg))
 
 # Proyecto Java 
 
