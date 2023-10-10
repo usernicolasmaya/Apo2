@@ -1,0 +1,39 @@
+package JAVA;
+
+import javax.swing.JOptionPane;
+
+
+public class contenedoras {
+	
+	public static void main(String[]args) {
+		
+
+		int numnotas = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese el numero de notas"));
+		double Array [] = new double[numnotas];
+		for (int i=0; i<numnotas; i++) {
+			Array [i] = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese la nota"));
+			
+		}
+		double suma = 0;
+		double nmenor = 5.0;
+		double nmayor = 0;
+			for (int i=0; i<numnotas; i++) {
+			if (Array[i] < nmenor) {
+				nmenor = Array[i];
+			}
+			if (Array[i] > nmayor) {
+				nmayor = Array[i];
+			}
+			suma += Array[i];
+		}
+			
+		JOptionPane.showMessageDialog(null, "El numero menor es: " +nmenor);
+
+		JOptionPane.showMessageDialog(null, "El numero mayor es: " +nmayor);
+		
+		double promedio = suma/numnotas;
+		JOptionPane.showMessageDialog(null, "El promedio es de: " +promedio);
+		
+
+	}
+}
