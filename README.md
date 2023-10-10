@@ -71,7 +71,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* **Julian Andres Ceballos, Santiago Luna y Nicolas Maya** 
 
 
 ## Licencia
