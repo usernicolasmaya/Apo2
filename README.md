@@ -3,19 +3,21 @@
 
 # Proyecto Java 
 
-Este proyecto consiste en 
+Este proyecto consiste en realizar algoritmos en el lenguaje de promgracion Java con el fin de desarrolar programas en los cuales se apliquen los temas vistos en calse de Programacion "Apo2" como lo son: Ciclos,Funciones,Contenedoras y Condicionales.
 
 ## Empezando
 
-instrucciones 
+Para inciar a utilizar los programas hechos por nosotros se debe descargar El IDE "Eclipse for developers" para poder acceder de manera exitosa.
 
 ### Requisitos previos
 
-Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse", 
-Link paguina eclipse:
+Instalar IDE "Eclipse for developers" y Tener instalado Git.
 
 ```
-https://eclipseide.org/
+Paguina de descarga IDE "Eclipse for developers": https://eclipseide.org/
+
+Paguina de descarga de Git: https://git-scm.com/
+
 ```
 
 ### Instalación
