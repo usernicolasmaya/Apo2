@@ -26,17 +26,17 @@ https://eclipseide.org/
 https://eclipseide.org/
 ```
 
-Y repetir
+
 
 ```
-until finished
+
 ```
 
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+Al iniciar el programa eclipse se debe abrir la terminal y clonar el repositorio "Apo2" con este link "https://github.com/usernicolasmaya/Apo2.git" para acceder a los ejercicios.
 
 ## Ejecutando las pruebas
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+Para probar los programas realizados debes darle click en la flecha verde de "Run" y digitar los datos que te pida la interfaz para poder disfrutar adecuadamente el procedimiento.
 
 ### Dividir en pruebas de principio a fin
 
@@ -62,12 +62,11 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 ## Construido con
 
 Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+
 
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+Recomendamos utilizar la version de eclipse "4.29" y la version de git  2.41.0. para un rendimiento adecuado del programa.
 
 ## Autores
 
@@ -80,6 +79,6 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 
 ## Expresiones de gratitud (Acknowledgments)
 
-* Un consejo para cualquiera cuyo código se haya utilizado
-* Inspiración
-* etc
+* Muchas gracias por utilizar este proyecto hecho en java
+* Agardecemos a nuestros profesores Javier Mauricio López Moreno y Gustavo Willyn Sánchez Rodriguez por sus enseñanzas.
+
