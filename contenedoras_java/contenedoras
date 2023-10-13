@@ -1,0 +1,26 @@
+package contenedoras_java;
+
+import javax.swing.JOptionPane;
+
+public class contenedoras {
+	
+	public static void main(String[]args) {
+		String asignaturas [] = new String [5];
+	    double notas [] = new double [5];
+		
+	    asignaturas [0] = "Matematicas";
+	    asignaturas [1] = "Fisica";
+	    asignaturas [2] = "Quimica";
+	    asignaturas [3] = "Ingles";
+	    asignaturas [4] = "Castellano";
+	    
+		for (int i=0; i<5; i++) {
+			notas [i] = Double.parseDouble(JOptionPane.showInputDialog(null, "Ingrese la nota de: " + asignaturas[i]));
+	}
+		
+
+		for (int i=0; i<5; i++) {
+		JOptionPane.showMessageDialog(null, "La nota de " + asignaturas[i] + " es: " + notas[i]);
+		}
+	}
+}
