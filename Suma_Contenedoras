@@ -3,7 +3,7 @@ package Apo2;
 import javax.swing.JOptionPane;
 
 
-public class contenedoras {
+public class Suma_Contenedoras {
 	
 	public static void main(String[]args) {
 		
