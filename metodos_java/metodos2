@@ -1,0 +1,106 @@
+package Encuestado;
+public class Encuestado {
+	
+	private int edad;
+	private String EstadoCivil;
+	private int opinion;
+
+	/**
+	 * @Method darNumeroCasados
+	 * metodo para dar el numero de casados 
+	 * en la encuesta
+	 * @return return this.darNumeroCasados();
+	 * retorna a la encuesta para contar el
+	 * numero de casados
+	 */
+	
+public int darNumeroCasados () {
+return this.darNumeroCasados();
+
+}
+
+    /**
+     * @Method darTotalOpinionCasados
+     * metodo para mostrar el valor total de 
+     * la opinion de los usuarios casados
+     * @return return this.darTotalOpinionCasados();
+     * retorna a la encuesta para contar el total de 
+     * opiniones de los usuarios casados
+     */
+
+public int darTotalOpinionCasados() {
+	return this.darTotalOpinionCasados();
+	
+}
+
+     /**
+      * @Method darPromedio
+      * metodo para mostrar el promedio del numero de 
+      * casados entre el total de opiniones de los casados
+      * @return return this.darNumeroCasados()/darTotalOpinionCasados();
+      * retorna a los metodos necesarios para poder dar el promedio
+      */
+
+public double darPromedio() {
+	return this.darNumeroCasados()/darTotalOpinionCasados();
+	
+}
+
+     /**
+      * @Method agregarOpinionCasado
+      * metodo que permite agregar la opinion de los
+      * usuarios casados entre 0 y 10
+      * @return return this.agregarOpinionCasado();
+      * retorna a la encuesta para agregar la opinion
+      * de los casados
+      */
+
+public double agregarOpinionCasado() {
+	return this.agregarOpinionCasado();
+	
+}
+
+      /**
+       * @Method darPromedioCasados
+       * metodo para promediar los encuestados casados
+       * @return return this.darNumeroCasados()/darTotalOpinionCasados();
+       * retorna a los metodos necesarios para mostrar
+       * el promedio de los casados
+       */
+
+public double darPromedioCasados() {
+	return this.darNumeroCasados()/darTotalOpinionCasados();
+	
+}
+
+       /**
+        * @Method agregarOpinionRango1Casado
+        * metodo para agregar opinion rango 1 encuestados
+        * casados
+        * @return return this.agregarOpinionCasado();
+        * retorna para agregar al programa la opinion de
+        * los encuestados casados
+        */
+
+public double agregarOpinionRango1Casado() {
+	return this.agregarOpinionCasado();
+	
+}
+
+/**
+ * @Method agregarOpinionRango2Soltero
+ * metodo para agregar opinion rango 2 encuestados
+ * solteros
+ * @return return this.agregarOpinionRango2Soltero();
+ * retorna para agregar al programa la opinion de 
+ * los encuestados solteros
+ */
+
+public double agregarOpinionRango2Soltero() {
+	return this.agregarOpinionRango2Soltero();
+	
+}
+
+
+
+}
