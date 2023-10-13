@@ -1,5 +1,5 @@
-package Encuestado;
-public class Encuestado {
+package metodos_java;
+public class empleado {
 	
 	private int edad;
 	private String EstadoCivil;
