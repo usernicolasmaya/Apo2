@@ -74,7 +74,7 @@ public class Empleado {
 	/**
 	 * @Method MiProblema
 	 * Metodo temporal de ejemplo para obtener el año de la clase fecha
-	 */
+	 */g
 	public void MiProblema() {
 		int valor=fIngreso.DarAnio();
 	}
