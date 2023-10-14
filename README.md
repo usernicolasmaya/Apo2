@@ -1,5 +1,5 @@
 # Rama Parte 1 Apo2
-![Logo Java](https://cdn.neowin.com/news/images/uploaded/2016/04/eclipse-logo-new_story.jpg))
+![Logo Java](https://es.wizcase.com/wp-content/uploads/2021/05/Eclipse-IDE-Logo.jpg))
 
 # Proyecto Java 
 
